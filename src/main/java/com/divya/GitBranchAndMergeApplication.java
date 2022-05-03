@@ -10,4 +10,8 @@ public class GitBranchAndMergeApplication {
 		SpringApplication.run(GitBranchAndMergeApplication.class, args);
 	}
 
+public void show(){
+
+}
+
 }
